@@ -1,4 +1,5 @@
 # HTML VE CSS İLE YAPTIĞIM PROJE
 
-![image](https://user-images.githubusercontent.com/116027501/207956401-9e087ca3-30fb-4751-8bc2-15f4ac40283b.png)
 
+
+![hip](https://user-images.githubusercontent.com/116027501/207956465-b8eb2998-3209-4f65-ba8f-10149ed422da.png)
